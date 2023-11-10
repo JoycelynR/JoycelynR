@@ -1,7 +1,7 @@
 <!--Title -->
 <div align="center">
 
-## Welcome to Joycelyn Rouse's profile! &#128075;
+# Welcome to Joycelyn Rouse's profile! &#128075;
 
  </div>
 
