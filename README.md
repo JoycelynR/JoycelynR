@@ -14,7 +14,7 @@
 **`Digital Curiosity`**
 </p>
  <p>
-I am a dedicated full-time computer science student, actively working towards earning my bachelor's degree with an expected graduation date in spring 2024. Passionate about data, developing innovative software solutions and navigating the dynamic realm of cybersecurity, I am driven to contribute my skills and knowledge to the ever-evolving landscape of technology.
+I am a recent graduate with a bachelor's in computer science with a minor in business admistration. I am dedicated to becoming a full-time data and cyber professional. I passionate about data, developing innovative software solutions and navigating the dynamic realm of cybersecurity, I am driven to contribute my skills and knowledge to the ever-evolving landscape of technology.
  </p>
 
  ---
